@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804293928425",
+    "project_id": "fir-realtime-authenticate",
+    "storage_bucket": "fir-realtime-authenticate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804293928425:android:b228415b4422c540021778",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime_authenticate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaCj626aIWKbRDLrNPIANtisTh421TRes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
